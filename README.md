@@ -1,5 +1,8 @@
 # Data Visualization Project: UK Life Aspects
 
+![2024-07-26_152306](https://github.com/user-attachments/assets/da966047-02bf-47d6-9bfc-7a5605a871c4)
+
+
 ## Overview
 
 This project provides visual representations and analysis of three aspects of life in the United Kingdom: housing prices in London and Newcastle, UK internet speeds, and the share prices of the top 100 companies. The visualizations are created using Python and various data visualization libraries.
